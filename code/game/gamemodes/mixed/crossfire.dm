@@ -5,7 +5,7 @@
 		and many seek to undermine them using illegal ways. Their crown jewel research stations are not safe from those \
 		malicious activities."
 	config_tag = "crossfire"
-	required_players = 25
+	required_players = 20
 	required_enemies = 8
 	end_on_antag_death = 0
 	antag_tags = list(MODE_RAIDER, MODE_MERCENARY)
